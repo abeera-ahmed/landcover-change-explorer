@@ -1,0 +1,41 @@
+point,from,to,lat,lon,real_change,notes
+0,Crops,Built area,31.615171,74.332358,no,trees/field in 2023; cleared patch and buildings ~40-60 m east
+1,Crops,Built area,31.624348,74.202181,unclear,"field at point, new building ~20 m away; area heavily built up by 2023"
+2,Crops,Built area,31.653425,74.251188,yes,"fields in 2018; housing scheme in 2023 (roads, cleared plots, some houses)"
+3,Crops,Built area,31.711777,74.263278,no,"walled field both years, browner in 2023; factory shed ~40 m east already existed"
+4,Crops,Built area,31.70509,74.246024,no,Grass inside construction site; cleared ground ~45 m from centre.
+5,Crops,Built area,31.580474,74.197812,unclear,Village edge within ~20 m; boundary unchanged since 2017.
+6,Crops,Built area,31.636923,74.25248,yes,Field in 2018; housing scheme plots at centre in 2023.
+7,Crops,Built area,31.597173,74.290639,unclear,Centre on edge of new compound; built/unbuilt boundary within ~5 m.
+8,Crops,Built area,31.586902,74.230746,yes,Fields in 2018; housing scheme roads and cleared plots in 2023.
+9,Crops,Built area,31.717354,74.244975,no,Grass at centre; scheme roads and cleared plots ~25–30 m north.
+10,Crops,Built area,31.587303,74.222522,yes,Fallow field in 2018; cleared scheme ground beside new road in 2023.
+11,Crops,Built area,31.671844,74.30136,unclear,Centre on track at field/scheme boundary; part cleared already in 2017.
+12,Crops,Built area,31.663529,74.315346,unclear,Centre on south edge of new shed; field within ~5 m.
+13,Crops,Built area,31.622571,74.19218,yes,"Floodplain scrub in 2018, not crops; levelled walled plot in 2023."
+14,Crops,Built area,31.642361,74.226494,unclear,Centre at end of scheme road strip; grassy plots within ~10 m.
+15,Crops,Built area,31.563295,74.235998,no,Motorway at centre in both years; already built in 2018.
+16,Crops,Built area,31.585653,74.248357,no,Trees at centre both years; new pool complex ~35-40 m east.
+17,Crops,Built area,31.629777,74.249374,unclear,Centre on edge of new plot block; green field within ~5 m.
+18,Crops,Built area,31.668089,74.214255,no,"Grass verge both years; railway ~25 m south, village beyond."
+19,Crops,Built area,31.634646,74.296365,no,Open field/fallow both years; old village lane ~20 m west.
+20,Crops,Built area,31.703559,74.362223,unclear,New house at/next to centre; field within ~5 m.
+21,Crops,Built area,31.640656,74.227984,no,Sandy channel bank both years; not built. New housing ~50 m east.
+22,Crops,Built area,31.716812,74.260283,yes,"Trees/scrub in 2018, not crops; scheme road and cleared plots 2023."
+23,Crops,Built area,31.597538,74.291479,no,Grass/trees at centre both years; new buildings ~25-50 m SW and S.
+24,Crops,Built area,31.578758,74.212054,yes,Crop field in 2018; scheme road and levelled ground in 2023.
+25,Crops,Built area,31.656272,74.259708,no,Railway at centre in both years; already built in 2018.
+26,Crops,Built area,31.657272,74.186817,unclear,"Paved yard at centre, ~7 m from wall; pond beyond. Fields in 2018."
+27,Crops,Built area,31.590499,74.213958,unclear,"Walled plot, bare dirt/grass mix at centre; not clearly built."
+28,Crops,Built area,31.586516,74.241605,yes,"Scrub in partly laid-out scheme 2018, not crops; paved street 2023."
+29,Crops,Built area,31.561585,74.236644,no,Motorway verge both years; motorway already existed in 2018.
+30,Built area,Crops,31.674716,74.298701,no,"Open grass/bare land in 2018, not built; farmland in 2023."
+31,Built area,Crops,31.691213,74.24888,no,Lahore Bypass at centre in both years; still built in 2023.
+32,Built area,Crops,31.684509,74.228993,no,"Field edge/trees in 2018, not built; trees/grass in 2023."
+33,Built area,Crops,31.703272,74.307245,no,Crop field both years; never built. Bypass ~150 m south.
+34,Built area,Crops,31.635897,74.400121,no,Farmland/scrub both years; never built. Field layouts don't match.
+35,Built area,Crops,31.636666,74.181302,no,Walled crop field both years; never built. Factories ~30 m south.
+36,Built area,Crops,31.692709,74.257731,no,Open scrub/grass both years; never built or farmed.
+37,Built area,Crops,31.703908,74.307979,no,"Bare open ground in 2018, not built; field edge in 2023."
+38,Built area,Crops,31.682552,74.296215,no,Channel bank/water both years; never built or farmed.
+39,Built area,Crops,31.689891,74.254166,no,Same building compound both years; still built in 2023.
