@@ -1,0 +1,8 @@
+from_2017,Water,Trees,Flooded vegetation,Crops,Built area,Bare ground,Rangeland
+Water,479.9,0.8,0.1,324.4,26.0,110.0,110.8
+Trees,0.0,6.3,0.0,2.0,35.0,0.0,6.2
+Flooded vegetation,0.1,0.0,0.3,0.0,0.0,0.0,0.4
+Crops,257.9,74.0,0.0,19185.5,2645.4,77.1,323.3
+Built area,12.8,13.9,0.0,334.0,20396.6,10.9,155.8
+Bare ground,288.3,0.5,0.0,375.6,78.6,139.1,220.7
+Rangeland,118.2,86.9,0.0,377.8,232.3,30.5,378.6

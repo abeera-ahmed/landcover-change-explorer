@@ -1,0 +1,11 @@
+from_2017,to_2023,hectares
+Crops,Built area,2645.4
+Rangeland,Crops,377.8
+Bare ground,Crops,375.6
+Built area,Crops,334.0
+Water,Crops,324.4
+Crops,Rangeland,323.3
+Bare ground,Water,288.3
+Crops,Water,257.9
+Rangeland,Built area,232.3
+Bare ground,Rangeland,220.7
